@@ -31,13 +31,17 @@ Ook hebben meneer Andrioli en ik een strategie gemaakt waarmee de dataset opgede
 Ook deze sprint ben ik door gegaan met de coursera Machine Learning cursus en de DataCamp Python cursussen. De DataCamp cursussen zijn allemaal afgerond. Met de Machine Learning cursus ben ik nog bezig. Ik heb voor mijzelf het doel gesteld om hier meer aan te doen dan wat minimaal verwacht wordt vanuit de minor aangezien er technieken aan bod komen verder in de cursus die voor ons project nuttig kunnen zijn.
 
 
-Sprint 4, week 6 en 8, 08-10-2018 tot 21-10-2018:
+Sprint 4, week 7 en 8, 08-10-2018 tot 21-10-2018:
+
+Deze sprint is de eerste classifier afgerond en uitgebreid. Alleen werkte deze classifiers op sample niveau en niet op patient nivea. Hierom zijn Kasper van der Hoofd en ik hiermee aan de slag gegaan. Deze "nieuwe" classifier kon twee van de vier patientgroepen goed van elkaar onderscheiden.
+
+Hiernaast ben ik door gegaan met de cursussen op DataCamp en de machine learning course.
+
+Tot slot heb ik de presentatie in week acht gegeven.
 
 
+Sprint 5, week 9 en 10, 29-10-2018 tot 11-11-2018:
 
+Aan het begin van deze sprint hebben we met de projectgroep en meneer Andrioli een moment genomen om alle gemaakte progressie op een rij te zetten. Toen dit voor iedereen helemaal helder was, hebben we het project nogmaals vastgesteld en een planning gemaakt voor de komende twaalf weken.
 
-
-
-
-
-
+Aan de hand hiervan ben ik gaan kijken naar clustertechnieken en als kleine voorbereiding op de volgende sprints ben ik ook een klein beetje door gegaan met deep learning.
