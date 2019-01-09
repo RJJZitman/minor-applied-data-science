@@ -1,8 +1,15 @@
 # minor-applied-data-science
 
-Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is naast, per sprint gereflecteerd op wat ik heb gedaan en wat ik heb geleerd tijdens die sprint, ook een beeld geschetst van de progressie en ontwikkelingen van het project in het algemeen.
+Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het project heb gedaan. Dit project is uitgevoerd met Dr. T. Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
 
 --------------
+
+
+
+
+
+
+
 
 Sprint 1, week 1 en 2, 27-08-2018 tot 07-09-2018:
 
