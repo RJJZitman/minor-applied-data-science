@@ -22,11 +22,8 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~De energie variabele berekenen
   ~Parameters manipuleren om lineaire regressie the simuleren
 -Classifiers waar ik aan heb meegewerkt
-  ~https://github.com/RJJZitman/minor-applied-data-science/issues/4#issue-397948573
-  ~https://github.com/RJJZitman/minor-applied-data-science/issues/5#issue-397956236
-  
-  [hallo](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
-  
+  ~[hallo](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
+  ~[classifier X vs Y LR manipulated parameters](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb)
   
   
 -Presentaties
