@@ -9,33 +9,17 @@ Dit portfolio is in de volgende wijze opgebouwd:
  
 -[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
 
-Coursera andrew NG:
-Mijn voortgang van de andrew NG machine learning course is hier te vinden:
-https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258
-
-Datacamp courses:
-In de links staan screenshots met de datacamp courses die ik heb voltooid, dit zijn er meer dan minimaal nodig.
-https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969
-
-
-
 -[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)
 
   
--Wiskunde 
-  ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken 
-    De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren. 
-   
-  ~Kleine dingen gedurende het project 
-    Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging. 
+-[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118)
   
   
 -De data
-  ~Splitsingsstrategie bedenken
-    Samen met Dr. Andrioli heb ik de splitsingstrategie van de data bedacht. Wij hebben gekozen om 90% van alle data te gebruiken als trainset en de overige 10% te gebruiken als testset, om niet aan te zitten tot aan het einde van het project. Verder hebben wij de trainset verdeeld in twee delen. Namelijk een dataset om te leren, met een omvang van 80% van de trainset, en 20% van deze trainset als validatie dataset. Dit zodat wij tussendoor de classifiers konden valideren voordat wij aan het uiteindelijke testdata zaten. Anders zouden we het gevaar lopen de classifiers af te stemmen op de testset, wat niet de bedoeling is. De hierboven genoemde percentages zijn gebaseerd op de hoeveelheid metingen. Let wel, in deze subsets zijn uitsluitend gehele patienten per set verwerkt, dus er is geen data van een patient in twee of meer van deze subsets verwerkt.
+  ~[Splitsingsstrategie](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) bedenken
     
-  ~Oefeningen van verschillende categoriën met elkaar vergelijken
-   Bekend was dat de patienten per categorie een aantal bewegingen/oefeningen uit moesten voeren, hier komt immers de data uit voort. Maar onbekend was wat welke oefening in hield en of oefening X van categorie 1, 2, 3 of 4 overeen kwam met oefening Y uitgevoerd door een de patienten uit een andere categorie. Om hier inzicht in te verkrijgen zijn we de grafieken van de humerus gaan bekijken met het doel om overeenkomsten te vinden. Op deze manier hebben wij vijf oefeningen gevonden die in elke categroie voorkomt.
+  ~[Oefeningen](https://github.com/RJJZitman/minor-applied-data-science/issues/11#issue-398014891) van verschillende categoriën met elkaar vergelijken
+
   
   ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
    Om beter inzicht te krijgen in de data.
