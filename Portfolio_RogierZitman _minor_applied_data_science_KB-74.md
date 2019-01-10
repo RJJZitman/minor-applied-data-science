@@ -10,26 +10,28 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~Coursera andrew NG machine learning course
   ~Datacamp courses
 -Jargon
-  ~Medisch jargon
-  Thorax: Borstbeen/borstkas
-  Clavicula: Sleutelbeen
-  Humerus: Bovenarm
-  Scapula: Schouderblad
-  Olecranon: Elleboog
-  ~Jargon gebruikt in het paper
-  Orginial data: de aangeleverde data
-  Cleaned data: de door ons opgeschoonde data
+  ~Medisch jargon:
+    Thorax: Borstbeen/borstkas
+    Clavicula: Sleutelbeen
+    Humerus: Bovenarm
+    Scapula: Schouderblad
+    Olecranon: Elleboog
+  ~ander jargon:
+    Ruwe sensor data: door het lumc aangeleverde ruwe sensor data
+    Opgeschoonde sensor data: de door het lumc opgeschoonde versie van de ruwe data
+    Cleaned data: de door ons opgeschoonde versie van de opgeschoonde sensor data
   
 -Wiskunde
   ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken
-  De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren.
+    De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren.
   
-  ~SSS driehoeken om de ellebooghoek te berekenen
+  ~Kleine dingen gedurende het project
+    Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging.
+  
+  
 -De data
   ~Splitsingsstrategie bedenken
-  90% train- 10% test
-  van de test 80% leren en 20% validatie
-  zodanig dat de percentages overeenkomen met de hoeveelheid metingen.
+    Samen met Dr. Andrioli heb ik de splitsingstrategie van de data bedacht. Wij hebben gekozen om 90% van alle data te gebruiken als trainset en de overige 10% te gebruiken als testset, om niet aan te zitten tot aan het einde van het project. Verder hebben wij de trainset verdeeld in twee delen. Namelijk een dataset om te leren, met een omvang van 80% van de trainset, en 20% van deze trainset als validatie dataset. Dit zodat wij tussendoor de classifiers konden valideren voordat wij aan het uiteindelijke testdata zaten. Anders zouden we het gevaar lopen de classifiers af te stemmen op de testset, wat niet de bedoeling is. De hierboven genoemde percentages zijn gebaseerd op de hoeveelheid metingen. Let wel, in deze subsets zijn uitsluitend gehele patienten per set verwerkt, dus er is geen data van een patient in twee of meer van deze subsets verwerkt.
   
   ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
  Geprobeerd met luke, maar uiteindelijk is het niet gelukt. erg lastig want er waren geen locatie en afstanden meer. dit maakte het vergelijken erg lastig.
