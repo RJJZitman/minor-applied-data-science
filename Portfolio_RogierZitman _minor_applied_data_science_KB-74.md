@@ -23,11 +23,15 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~Parameters manipuleren om lineaire regressie the simuleren
 -Classifiers waar ik aan heb meegewerkt
   ~Classifier 2 vs 3 Logistic Regression
+  
+  
+  
   ~
 -Presentaties
   ~week 4
   ~week 8
   ~week 17
+  ~openbare presentatie over het gehele project
 -Paper
 -Literatuur
 -Overig
