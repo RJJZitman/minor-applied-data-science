@@ -21,10 +21,14 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~De data opschonen
   ~De energie variabele berekenen
   ~Parameters manipuleren om lineaire regressie the simuleren
--Classifiers waar ik aan heb meegewerkt
-  ~[hallo](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
+-Classifiers waar ik aan heb meegewerkt  
   ~[classifier X vs Y LR manipulated parameters](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb)
   
+  ~[DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
+  
+  ~[gedeelte oppervlakte berekenen-->energy variabele](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb)
+  
+ ~[fixed samples op de grafiek pakken](https://datascience.hhs.nl:8888/user/15023869/notebooks/Fixed%20samples%20op%20de%20grafiek%20pakken.ipynb)
   
 -Presentaties
   ~week 4
