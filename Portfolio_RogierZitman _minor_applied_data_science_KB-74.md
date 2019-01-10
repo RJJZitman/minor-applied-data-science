@@ -15,12 +15,22 @@ Dit portfolio is in de volgende wijze opgebouwd:
 -Wiskunde
   ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken
   ~SSS driehoeken om de ellebooghoek te berekenen
--De data analyseren
+-De data
+  ~Splitsingsstrategie bedenken
   ~Visualisatie van de ruwe data en de meting van Kasper vergelijken/nabootsen
   ~De data opschonen
   ~De energie variabele berekenen
   ~Parameters manipuleren om lineaire regressie the simuleren
-
+-Classifiers waar ik aan heb meegewerkt
+  ~Classifier 2 vs 3 Logistic Regression
+  ~
+-Presentaties
+  ~week 4
+  ~week 8
+  ~week 17
+-Paper
+-Literatuur
+-Overig
 
 Coursera andrew NG:
 Mijn voortgang van de andrew NG machine learning course is hier te vinden:
@@ -45,7 +55,13 @@ Sprint 2, week 3 en 4, 10-09-2018 tot 23-09-2018:
 
 Deze sprint heb ik mij vooral bezig gehouden met de Python cursussen van Datacamp en de Machine Learning cursus op coursera. Aan het einde van de sprint liep ik vrij goedop schema voor beide. Deze sprint ben ik ook verder gegaan met literatuuronderzoek, ditmaal Meskers_etal_1998 en De_Groot_1999. Deze rapporten zijn, net zoals Flock of Birds aangeraden door onze opdrachtgever Dr. ir. J. H. (Jurriaan) de Groot. Dit was vrij lastige matarie om door heen te werken door de latijnse termen in het medisch jargon, maar ook dat gaat steeds meer op de automatische piloot.
 
-Verder hebben we deze sprint de door het LUMC opgeschoonde dataset gekregen. Deze dataset is opgedeeld in vier patientgroepen of categoriën. Aan de hand hiervan heb ik met Luke de Keijzer een poging gedaan om inzicht te verkrijgen in de overeenkomsten tussen allen patiënten ingedeeld in alle categoriën. Hiervoor hebben wij voor de standaarddeviatie van de X- en Y- coördinaat van de clavicula van oefening vier tegen elkaar uit te zetten op, respectievelijk, de X-as en Y-as.
+Verder hebben we deze sprint de door het LUMC opgeschoonde dataset gekregen. Deze dataset is opgedeeld in vier patientgroepen of categoriën. Aan de hand hiervan heb ik met Luke de Keijzer een poging gedaan om inzicht te verkrijgen in de overeenkomsten tussen allen patiënten ingedeeld in alle categoriën. 
+
+
+
+Hiervoor hebben wij voor de standaarddeviatie van de X- en Y- coördinaat van de clavicula van oefening vier tegen elkaar uit te zetten op, respectievelijk, de X-as en Y-as.
+
+
 
 Aan het einde van week vier heb ik de wekelijkse presentatie gegeven.
 
