@@ -7,7 +7,7 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
  
 Dit portfolio is in de volgende wijze opgebouwd: 
  
--Online cursussen: 
+-[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
 
 Coursera andrew NG:
 Mijn voortgang van de andrew NG machine learning course is hier te vinden:
