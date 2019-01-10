@@ -1,8 +1,25 @@
 # minor-applied-data-science
 
-Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het project heb gedaan. Dit project is uitgevoerd met Dr. T. Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
+Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord.
 
---------------
+Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (Jurriaan) de Groot, werkzaam bij het Leids Universitair Medisch Centrum (LUMC).
+
+
+Dit portfolio is in de volgende wijze opgebouwd:
+-Online cursussen
+  ~Coursera andrew NG machine learning course
+  ~Datacamp courses
+-Jargon
+  ~Medisch jargon
+  ~Jargon gebruikt in het paper
+-Wiskunde
+  ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken
+  ~SSS driehoeken om de ellebooghoek te berekenen
+-De data analyseren
+  ~Visualisatie van de ruwe data en de meting van Kasper vergelijken/nabootsen
+  ~De data opschonen
+  ~De energie variabele berekenen
+  ~Parameters manipuleren om lineaire regressie the simuleren
 
 
 Coursera andrew NG:
