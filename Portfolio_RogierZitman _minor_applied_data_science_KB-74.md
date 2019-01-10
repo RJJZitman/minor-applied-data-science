@@ -8,27 +8,35 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 Dit portfolio is in de volgende wijze opgebouwd: 
  
 -Online cursussen: 
- ~Coursera andrew NG machine learning course 
- ~Datacamp courses 
+
+Coursera andrew NG:
+Mijn voortgang van de andrew NG machine learning course is hier te vinden:
+https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258
+
+Datacamp courses:
+In de links staan screenshots met de datacamp courses die ik heb voltooid, dit zijn er meer dan minimaal nodig.
+https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969
+
+
+
+-Jargon 
+  ~Medisch jargon: 
+    Thorax: Borstbeen/borstkas 
+    Clavicula: Sleutelbeen 
+    Humerus: Bovenarm 
+    Scapula: Schouderblad 
+    Olecranon: Elleboog 
+  ~ander jargon: 
+    Ruwe sensor data: door het lumc aangeleverde ruwe sensor data 
+    Opgeschoonde sensor data: de door het lumc opgeschoonde versie van de ruwe data 
+    Cleaned data: de door ons opgeschoonde versie van de opgeschoonde sensor data 
   
--Jargon
-  ~Medisch jargon:
-    Thorax: Borstbeen/borstkas
-    Clavicula: Sleutelbeen
-    Humerus: Bovenarm
-    Scapula: Schouderblad
-    Olecranon: Elleboog
-  ~ander jargon:
-    Ruwe sensor data: door het lumc aangeleverde ruwe sensor data
-    Opgeschoonde sensor data: de door het lumc opgeschoonde versie van de ruwe data
-    Cleaned data: de door ons opgeschoonde versie van de opgeschoonde sensor data
-  
--Wiskunde
-  ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken
-    De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren.
-  
-  ~Kleine dingen gedurende het project
-    Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging.
+-Wiskunde 
+  ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken 
+    De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren. 
+   
+  ~Kleine dingen gedurende het project 
+    Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging. 
   
   
 -De data
@@ -63,13 +71,6 @@ Dit portfolio is in de volgende wijze opgebouwd:
 -Literatuur
 -Overig
 
-Coursera andrew NG:
-Mijn voortgang van de andrew NG machine learning course is hier te vinden:
-https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258
-
-Datacamp courses:
-In de links staan screenshots met de datacamp courses die ik heb voltooid, dit zijn er meer dan minimaal nodig.
-https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969
 
 
 
