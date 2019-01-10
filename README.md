@@ -5,7 +5,8 @@ Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel 
 --------------
 
 
-
+Coursera andrew NG:
+Mijn voortgang van de andrew NG machine learning course is hier te vinden:https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258
 
 
 
