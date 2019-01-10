@@ -4,7 +4,7 @@ Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel 
 
 Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (Jurriaan) de Groot, werkzaam bij het Leids Universitair Medisch Centrum (LUMC). 
  
- 
+
 Dit portfolio is in de volgende wijze opgebouwd: 
  
 -[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
@@ -21,9 +21,7 @@ Dit portfolio is in de volgende wijze opgebouwd:
 
   
   ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
-   Om beter inzicht te krijgen in de data.
- 
- Geprobeerd met luke, maar uiteindelijk is het niet gelukt. erg lastig want er waren geen locatie en afstanden meer. dit maakte het vergelijken erg lastig.
+  In een poging om alle oefeningen in de vorm van een 3d animatie af te beelden, hebben we geprobeerd om de cleaned sensor data van Kaspers metingen een 3d animatie te maken die overeen kwam met de animatie van de bijbehorende ruwe sensordata. Hier heeft Luke veel tijd in gestoken, maar dit is niet gelukt. Ik ben het toen ook gaan proberen door met parameters te spelen, maar zonder succes.
   
   ~[De data](https://github.com/RJJZitman/minor-applied-data-science/issues/15#issue-398025428) opschonen
   
@@ -35,13 +33,27 @@ Dit portfolio is in de volgende wijze opgebouwd:
  
   
 -Presentaties
-  ~week 4
-  ~week 8
-  ~week 17
-  ~openbare eindpresentatie over het gehele project
+  ~week 4-->powerpoint
+  ~week 8-->powerpoint
+  ~week 17--> powerpoint is er nog niet
+  ~openbare eindpresentatie over het gehele project--> zelfde als week 17
 -Paper
+ ~Opzet structuur met kasper+ overzicht van de inhoude per hoofdstuk
+ ~Introductie herschreven en aangevuld
+ ~Results gemaakt
+ ~Discussion gemaakt
+ ~geholpen met inhoud conclusion
+ ~link naar paper.
+
+
 -Literatuur
+
 -Overig
+ ~Reflectie
+  -inhoudelijk
+  -procesmatig
+ ~cvb borrel
+ ~Algemene terugblik
 
 
 
