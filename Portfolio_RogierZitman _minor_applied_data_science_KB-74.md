@@ -25,19 +25,13 @@ Dit portfolio is in de volgende wijze opgebouwd:
  
  Geprobeerd met luke, maar uiteindelijk is het niet gelukt. erg lastig want er waren geen locatie en afstanden meer. dit maakte het vergelijken erg lastig.
   
-  ~De data opschonen
-    ~[DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
-    Gewerkt aan het voor de gebruiker duidelijk maken waar de data gesplitst wordt en wat aan zowel begin als einde van de meting wordt weggegooid.
+  ~[De data](https://github.com/RJJZitman/minor-applied-data-science/issues/15#issue-398025428) opschonen
   
-  ~De energie variabele berekenen
-    ~[gedeelte oppervlakte berekenen-->energy variabele](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb)
-    Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample.
-  
+  ~[De energie variabele](https://github.com/RJJZitman/minor-applied-data-science/issues/14#issue-398023411) berekenen
+
   ~[Categorie X vs Y classifier](https://github.com/RJJZitman/minor-applied-data-science/issues/12#issue-398015615) met gemanipuleerde parameters
 
-  
- ~[fixed samples op de grafiek pakken](https://datascience.hhs.nl:8888/user/15023869/notebooks/Fixed%20samples%20op%20de%20grafiek%20pakken.ipynb)
- Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere vaste punten op de grafiek te pakken ipv alleen een maximum. Ik ben toen hiermee begonnen. Dit script is uiteindelijk niet gebruikt omdat we overgingen op een andere stragetie om deze punten te kiezen.
+ ~[fixed samples](https://github.com/RJJZitman/minor-applied-data-science/issues/13#issue-398020413) van de grafiek gebruiken
  
   
 -Presentaties
@@ -48,6 +42,15 @@ Dit portfolio is in de volgende wijze opgebouwd:
 -Paper
 -Literatuur
 -Overig
+
+
+
+
+
+
+
+
+
 
 
 
