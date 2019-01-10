@@ -42,8 +42,13 @@ https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969
 -De data
   ~Splitsingsstrategie bedenken
     Samen met Dr. Andrioli heb ik de splitsingstrategie van de data bedacht. Wij hebben gekozen om 90% van alle data te gebruiken als trainset en de overige 10% te gebruiken als testset, om niet aan te zitten tot aan het einde van het project. Verder hebben wij de trainset verdeeld in twee delen. Namelijk een dataset om te leren, met een omvang van 80% van de trainset, en 20% van deze trainset als validatie dataset. Dit zodat wij tussendoor de classifiers konden valideren voordat wij aan het uiteindelijke testdata zaten. Anders zouden we het gevaar lopen de classifiers af te stemmen op de testset, wat niet de bedoeling is. De hierboven genoemde percentages zijn gebaseerd op de hoeveelheid metingen. Let wel, in deze subsets zijn uitsluitend gehele patienten per set verwerkt, dus er is geen data van een patient in twee of meer van deze subsets verwerkt.
+    
+  ~Oefeningen van verschillende categoriën met elkaar vergelijken
+   Bekend was dat de patienten per categorie een aantal bewegingen/oefeningen uit moesten voeren, hier komt immers de data uit voort. Maar onbekend was wat welke oefening in hield en of oefening X van categorie 1, 2, 3 of 4 overeen kwam met oefening Y uitgevoerd door een de patienten uit een andere categorie. Om hier inzicht in te verkrijgen zijn we de grafieken van de humerus gaan bekijken met het doel om overeenkomsten te vinden. Op deze manier hebben wij vijf oefeningen gevonden die in elke categroie voorkomt.
   
   ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
+   Om beter inzicht te krijgen in de data.
+ 
  Geprobeerd met luke, maar uiteindelijk is het niet gelukt. erg lastig want er waren geen locatie en afstanden meer. dit maakte het vergelijken erg lastig.
   
   ~De data opschonen
