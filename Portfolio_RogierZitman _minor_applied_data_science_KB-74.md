@@ -19,17 +19,8 @@ https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969
 
 
 
--Jargon 
-  ~Medisch jargon: 
-    Thorax: Borstbeen/borstkas 
-    Clavicula: Sleutelbeen 
-    Humerus: Bovenarm 
-    Scapula: Schouderblad 
-    Olecranon: Elleboog 
-  ~ander jargon: 
-    Ruwe sensor data: door het lumc aangeleverde ruwe sensor data 
-    Opgeschoonde sensor data: de door het lumc opgeschoonde versie van de ruwe data 
-    Cleaned data: de door ons opgeschoonde versie van de opgeschoonde sensor data 
+-[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)
+
   
 -Wiskunde 
   ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken 
