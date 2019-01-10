@@ -11,24 +11,44 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~Datacamp courses
 -Jargon
   ~Medisch jargon
+  Thorax: Borstbeen/borstkas
+  Clavicula: Sleutelbeen
+  Humerus: Bovenarm
+  Scapula: Schouderblad
+  Olecranon: Elleboog
   ~Jargon gebruikt in het paper
+  Orginial data: de aangeleverde data
+  Cleaned data: de door ons opgeschoonde data
+  
 -Wiskunde
   ~Wiskunde achter de data: 3D rotatiematrices en eulerhoeken
+  De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een versimpelde versie hiervan is te zien op deze foto: https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781. Het origineel heb ik niet emer aangezien dit op een whiteboard was en er geen foto van gemaakt kan worden. Wat betreft de eulerhoeken heb ik het gehouden bij een manier van noteren.
+  
   ~SSS driehoeken om de ellebooghoek te berekenen
 -De data
   ~Splitsingsstrategie bedenken
-  ~Visualisatie van de ruwe data en de meting van Kasper vergelijken/nabootsen
+  90% train- 10% test
+  van de test 80% leren en 20% validatie
+  zodanig dat de percentages overeenkomen met de hoeveelheid metingen.
+  
+  ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
+ Geprobeerd met luke, maar uiteindelijk is het niet gelukt. erg lastig want er waren geen locatie en afstanden meer. dit maakte het vergelijken erg lastig.
+  
   ~De data opschonen
+    ~[DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
+    Gewerkt aan het voor de gebruiker duidelijk maken waar de data gesplitst wordt en wat aan zowel begin als einde van de meting wordt weggegooid.
+  
   ~De energie variabele berekenen
+    ~[gedeelte oppervlakte berekenen-->energy variabele](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb)
+    Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample.
+  
   ~Parameters manipuleren om lineaire regressie the simuleren
--Classifiers waar ik aan heb meegewerkt  
-  ~[classifier X vs Y LR manipulated parameters](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb)
-  
-  ~[DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)
-  
-  ~[gedeelte oppervlakte berekenen-->energy variabele](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb)
+    ~[classifier X vs Y LR manipulated parameters](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb)
+    Luke en vincent zijn hiermee begonnen. Na een tijdje heb ik dit overgenomen en afgemaakt. Omdat categorie 2 en 3 niet goed uit elkaar te halen waren, ben ik toen de parameters gaan manipuleren om te onderzoeken of dat een positieve invloed had op de prestaties van deze classifier.
   
  ~[fixed samples op de grafiek pakken](https://datascience.hhs.nl:8888/user/15023869/notebooks/Fixed%20samples%20op%20de%20grafiek%20pakken.ipynb)
+ Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere vaste punten op de grafiek te pakken ipv alleen een maximum. Ik ben toen hiermee begonnen. Dit script is uiteindelijk niet gebruikt omdat we overgingen op een andere stragetie om deze punten te kiezen.
+ 
   
 -Presentaties
   ~week 4
