@@ -24,6 +24,11 @@ Dit portfolio is in de volgende wijze opgebouwd:
 -Classifiers waar ik aan heb meegewerkt
   ~https://github.com/RJJZitman/minor-applied-data-science/issues/4#issue-397948573
   ~https://github.com/RJJZitman/minor-applied-data-science/issues/5#issue-397956236
+  
+  https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb
+  
+  
+  
 -Presentaties
   ~week 4
   ~week 8
