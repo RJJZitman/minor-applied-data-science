@@ -50,7 +50,7 @@ Dit portfolio is in de volgende wijze opgebouwd:
 
 -Overig
  ~Reflectie
-  -inhoudelijk
+  -inhoudelijk:ook clustertechnieken
   -procesmatig
  ~cvb borrel
  ~Algemene terugblik
