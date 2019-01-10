@@ -22,16 +22,13 @@ Dit portfolio is in de volgende wijze opgebouwd:
   ~De energie variabele berekenen
   ~Parameters manipuleren om lineaire regressie the simuleren
 -Classifiers waar ik aan heb meegewerkt
-  ~Classifier 2 vs 3 Logistic Regression
-  
-  
-  
-  ~
+  ~https://github.com/RJJZitman/minor-applied-data-science/issues/4#issue-397948573
+  ~https://github.com/RJJZitman/minor-applied-data-science/issues/5#issue-397956236
 -Presentaties
   ~week 4
   ~week 8
   ~week 17
-  ~openbare presentatie over het gehele project
+  ~openbare eindpresentatie over het gehele project
 -Paper
 -Literatuur
 -Overig
