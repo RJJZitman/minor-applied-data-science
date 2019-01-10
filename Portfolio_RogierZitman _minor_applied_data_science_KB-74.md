@@ -11,11 +11,10 @@ Dit portfolio is in de volgende wijze opgebouwd:
 
 -[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)
 
-  
 -[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118)
   
-  
 -De data
+
   ~[Splitsingsstrategie](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) bedenken
     
   ~[Oefeningen](https://github.com/RJJZitman/minor-applied-data-science/issues/11#issue-398014891) van verschillende categoriën met elkaar vergelijken
@@ -34,9 +33,8 @@ Dit portfolio is in de volgende wijze opgebouwd:
     ~[gedeelte oppervlakte berekenen-->energy variabele](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb)
     Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample.
   
-  ~Parameters manipuleren om lineaire regressie the simuleren
-    ~[classifier X vs Y LR manipulated parameters](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb)
-    Luke en vincent zijn hiermee begonnen. Na een tijdje heb ik dit overgenomen en afgemaakt. Omdat categorie 2 en 3 niet goed uit elkaar te halen waren, ben ik toen de parameters gaan manipuleren om te onderzoeken of dat een positieve invloed had op de prestaties van deze classifier.
+  ~[Categorie X vs Y classifier](https://github.com/RJJZitman/minor-applied-data-science/issues/12#issue-398015615) met gemanipuleerde parameters
+
   
  ~[fixed samples op de grafiek pakken](https://datascience.hhs.nl:8888/user/15023869/notebooks/Fixed%20samples%20op%20de%20grafiek%20pakken.ipynb)
  Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere vaste punten op de grafiek te pakken ipv alleen een maximum. Ik ben toen hiermee begonnen. Dit script is uiteindelijk niet gebruikt omdat we overgingen op een andere stragetie om deze punten te kiezen.
