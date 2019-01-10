@@ -6,10 +6,9 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 
 
 Dit portfolio is in de volgende wijze opgebouwd:
--Online cursussen
 
-  ~Coursera andrew NG machine learning course
-  
+-Online cursussen
+  ~Coursera andrew NG machine learning course  
   ~Datacamp courses
   
 -Jargon
