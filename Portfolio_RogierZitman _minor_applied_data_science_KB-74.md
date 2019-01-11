@@ -70,7 +70,11 @@ Om een beter resultaat uit de classifiers te halen, is besloten om de data handm
 
 **De energie variabele berekenen**
 
-Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample. [Hier](https://github.com/RJJZitman/minor-applied-data-science/issues/14#issue-398023411) is een voorbeeld te zien van zo'n grafiek, met toelichting van de rekekening. Het gedeelte in de [code](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb) waar de oppervlakte lijst wordt gemaakt, is waar de oppervlakte van de grafiek wordt berekend.
+Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample. Hieronder is een voorbeeld te zien van zo'n grafiek, met toelichting van de berekening. Het gedeelte in de [code](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb) waar de oppervlakte lijst wordt gemaakt, is waar de oppervlakte van de grafiek wordt berekend.
+
+![energie grafiek](https://user-images.githubusercontent.com/43171217/50998168-f0899600-1526-11e9-827a-e37b262a4059.png)
+
+Omdat de punten op de grafiek een kromme vormen, hebben wij in plaats van het verschil van twee integralen te nemen de oppervlakte onder de boven- en onderkant van deze kromme numeriek benaderd. Als sample X+1 links van sample X lag, werd de waarde voor de oppervlakte als positief beschouwd en als sample X+1 rechts van sample X lag werd deze als negatief beschouwd. De absolute som van deze waarden geeft dan de op de afbeelding gemarkeerde oppervlakte.
 
   ~[Categorie X vs Y classifier](https://github.com/RJJZitman/minor-applied-data-science/issues/12#issue-398015615) met gemanipuleerde parameters
 
