@@ -42,7 +42,7 @@ Voor machine learning heb ik een deel van de andrew NG course op coursera gevolg
 
 ## **-[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)**
 
-Aangezien het ortho eyes project zich afspeeld in de medische wereld was het in het begin voor iedereen flink wennen aan de latijnse benamingen voor lichaamsdelen. Dit creëerde  voornamelijk een extra moeilijkheidsgraad bij het begrijpen van de data en tijdens het inlezen van de casus en literatuur. Een overzicht met de belangrijkste medische termen is [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124) te vinden.
+Aangezien het ortho eyes project zich afspeeld in de medische wereld was het in het begin voor iedereen flink wennen aan de latijnse benamingen voor lichaamsdelen. Dit creëerde  voornamelijk een extra moeilijkheidsgraad bij het begrijpen van de data en tijdens het inlezen van de casus en literatuur. Een overzicht met de belangrijkste medische termen is [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/17#issue-398335580) te vinden.
 
 Verder door ons gebruikt jargon kunt u onder [deze](https://github.com/RJJZitman/minor-applied-data-science/issues/16#issue-398250503) link vinden.
 
