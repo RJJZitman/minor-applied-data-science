@@ -66,11 +66,11 @@ In een poging om alle oefeningen in de vorm van een 3d animatie af te beelden, h
   
 **De data opschonen**
 
-Om een beter resultaat uit de classifiers te halen, is besloten om de data handmatig op te schonen. Erg veel metingen hadden ruis en soms was één oefening twee of meerdere keren uitgevoerd tijdens één meting. Toen is hier een script voor gemaakt. Samen met Luke heb ik toen het gedeelte tussen de #-------'s van de code gemaakt. [De gehele code]([DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)) is hier te zien.
+Om een beter resultaat uit de classifiers te halen, is besloten om de data handmatig op te schonen. Erg veel metingen hadden ruis en soms was één oefening twee of meerdere keren uitgevoerd tijdens één meting. Toen is hier een script voor gemaakt. Samen met Luke heb ik toen het gedeelte tussen de #-------'s van de code gemaakt. [De gehele code](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb) is hier te zien.
 
-  ~[De data](https://github.com/RJJZitman/minor-applied-data-science/issues/15#issue-398025428) opschonen
-  
-  ~[De energie variabele](https://github.com/RJJZitman/minor-applied-data-science/issues/14#issue-398023411) berekenen
+**De energie variabele berekenen**
+
+Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de rotatie van een beweging beschrijft tegenover de acceleratie waarmee die rotatie veranderd per sample. [Hier](https://github.com/RJJZitman/minor-applied-data-science/issues/14#issue-398023411) is een voorbeeld te zien van zo'n grafiek, met toelichting van de rekekening. Het gedeelte in de [code](https://datascience.hhs.nl:8888/user/15023869/notebooks/Patient%20level%20-%20Create%20dataset.ipynb) waar de oppervlakte lijst wordt gemaakt, is waar de oppervlakte van de grafiek wordt berekend.
 
   ~[Categorie X vs Y classifier](https://github.com/RJJZitman/minor-applied-data-science/issues/12#issue-398015615) met gemanipuleerde parameters
 
