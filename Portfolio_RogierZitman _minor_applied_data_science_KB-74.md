@@ -6,8 +6,19 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
  
 
 # Dit portfolio is in de volgende wijze opgebouwd: 
+
+**-Online cursussen**
+**Jargon**
+**Algemene wiskunde**
+**Het project**
+**Presentaties**
+**Mijn bijgrdage aan het paper**
+**Literatuur**
+**overig**
+
+
  
-**-[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
+-[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
 
 -[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124) 
 
