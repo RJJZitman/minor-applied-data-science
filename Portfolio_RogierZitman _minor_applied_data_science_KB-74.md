@@ -88,9 +88,11 @@ Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere
 
  
   
--Presentaties
-  ~week 4-->powerpoint
-  ~week 8-->powerpoint
+##**-Presentaties**
+
+  [week 4](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%204.pdf)
+  
+  [week 8](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%208.pdf)
   ~week 17--> powerpoint is er nog niet
   ~openbare eindpresentatie over het gehele project--> zelfde als week 17
 -Paper
