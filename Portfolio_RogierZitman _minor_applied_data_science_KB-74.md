@@ -55,13 +55,19 @@ Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door
  
 Samen met Dr. Andrioli heb ik de splitsingstrategie van de data bedacht. Wij hebben gekozen om 90% van alle data te gebruiken als trainset en de overige 10% te gebruiken als testset, om niet aan te zitten tot aan het einde van het project. Verder hebben wij de trainset verdeeld in twee delen. Namelijk een dataset om te leren, met een omvang van 80% van de trainset, en 20% van deze trainset als validatie dataset. Dit zodat wij tussendoor de classifiers konden valideren voordat wij aan het uiteindelijke testdata zaten. Anders zouden we het gevaar lopen de classifiers af te stemmen op de testset, wat niet de bedoeling is. De hierboven genoemde percentages zijn gebaseerd op de hoeveelheid metingen. Let wel, in deze subsets zijn uitsluitend gehele patienten per set verwerkt, dus er is geen data van een patient in twee of meer van deze subsets verwerkt. Ter verduidelijking is [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) een schematische weergave van de splitsingstrategie.
  
-    
-  ~[Oefeningen](https://github.com/RJJZitman/minor-applied-data-science/issues/11#issue-398014891) van verschillende categoriën met elkaar vergelijken
+**Oefeningen met elkaar vergelijken**
 
+Bekend was dat de patienten per categorie een aantal bewegingen/oefeningen uit moesten voeren, hier komt immers de data uit voort. Maar onbekend was wat welke oefening in hield en of oefening X van categorie 1, 2, 3 of 4 overeen kwam met oefening Y uitgevoerd door een de patienten uit een andere categorie. Om hier inzicht in te verkrijgen zijn we de grafieken van de humerus gaan bekijken met het doel om overeenkomsten te vinden. Op deze manier hebben wij vijf oefeningen gevonden die in elke categroie voorkomt.
+
+**Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen**
+
+In een poging om alle oefeningen in de vorm van een 3d animatie af te beelden, hebben we geprobeerd om de cleaned sensor data van Kaspers metingen een 3d animatie te maken die overeen kwam met de animatie van de bijbehorende ruwe sensordata. Hier heeft Luke veel tijd in gestoken, maar dit is niet gelukt. Ik ben het toen ook gaan proberen door met parameters te spelen, maar zonder succes.
   
-  ~Visualisatie van de ruwe data en de cleaned data meting van Kasper vergelijken/nabootsen
-  In een poging om alle oefeningen in de vorm van een 3d animatie af te beelden, hebben we geprobeerd om de cleaned sensor data van Kaspers metingen een 3d animatie te maken die overeen kwam met de animatie van de bijbehorende ruwe sensordata. Hier heeft Luke veel tijd in gestoken, maar dit is niet gelukt. Ik ben het toen ook gaan proberen door met parameters te spelen, maar zonder succes.
   
+**De data opschonen**
+
+Om een beter resultaat uit de classifiers te halen, is besloten om de data handmatig op te schonen. Erg veel metingen hadden ruis en soms was één oefening twee of meerdere keren uitgevoerd tijdens één meting. Toen is hier een script voor gemaakt. Samen met Luke heb ik toen het gedeelte tussen de #-------'s van de code gemaakt. [De gehele code]([DataCleaner, wiskunde](https://datascience.hhs.nl:8888/user/15023869/notebooks/Data%20Verdubbelaar%20V2.0.ipynb)) is hier te zien.
+
   ~[De data](https://github.com/RJJZitman/minor-applied-data-science/issues/15#issue-398025428) opschonen
   
   ~[De energie variabele](https://github.com/RJJZitman/minor-applied-data-science/issues/14#issue-398023411) berekenen
