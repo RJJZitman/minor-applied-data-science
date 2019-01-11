@@ -38,9 +38,13 @@ Aangezien het ortho eyes project zich afspeeld in de medische wereld was het in 
 Verder door ons gebruikt jargon kunt u onder [deze](https://github.com/RJJZitman/minor-applied-data-science/issues/16#issue-398250503) link vinden.
 
 
-## **[-Algemene wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118)**
+## **[-Algemene wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781)**
 
+**Wiskunde achter de data: 3D rotatiematrices en eulerhoeken**
+De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een herschreven versie hiervan is te zien op [deze](https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781) foto's. Het origineel heb ik niet meer aangezien dit op een whiteboard was gemaakt en er geen foto van gemaakt is. Wat betreft eulerhoeken heb ik het gehouden bij een manier van noteren. Wat hier mist is een vector in R3 en hoe een 3D rotatiematrix opgesteld kan worden. Dit heb ik toen wel uitgelegd aan de hand van de rotatiematrices over de x-, y- en z-as.
 
+**Kleine dingen gedurende het project**
+Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging.
 
 -[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118) **
   
