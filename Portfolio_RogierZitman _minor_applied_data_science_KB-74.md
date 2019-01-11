@@ -5,7 +5,7 @@ Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel 
 Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (Jurriaan) de Groot, werkzaam bij het Leids Universitair Medisch Centrum (LUMC). 
  
 
-#Dit portfolio is in de volgende wijze opgebouwd: 
+# Dit portfolio is in de volgende wijze opgebouwd: 
  
 -[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
 
@@ -13,7 +13,7 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 
 -[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118)
   
-##-De data
+## -De data
 
   ~[Splitsingsstrategie](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) bedenken
     
