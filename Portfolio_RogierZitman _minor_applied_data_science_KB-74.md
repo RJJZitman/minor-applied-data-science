@@ -107,7 +107,22 @@ Ook aan het paper behorend bij het Ortho eyes project heb ik mijn bijdrage gelev
 - Hier is een [link](https://github.com/RJJZitman/minor-applied-data-science/blob/master/paper_ortho_eyes.pdf) naar het paper.
 
 
--Literatuur
+## **-Literatuur**
+
+Aan het begin van de minor heb ik mij ook in enige literatuur verdiept. Onze opdrachtgever (J.H. de Groot) heeft ons toendertijd een aantal artikelen opgestuurd op het gebied van onze opdracht. Hieronder is een lijst met alle, door mij bestudeerde, literatuur gecategoriseerd weergegeven.
+
+**Het verkrijgen van inzicht in het onderwerp**
+
+- [De Groot, 1997](https://github.com/RJJZitman/minor-applied-data-science/blob/master/DeGroot_1997.pdf)
+- [De Groot, 1999](https://github.com/RJJZitman/minor-applied-data-science/blob/master/DeGroot_1999.pdf)
+- [Meskers, etal 1998](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Meskers_etal_1998b.pdf)
+- [Wu, etal 2005](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Wu_etal_2005.pdf)
+
+**Het BEP eindrapport (van de studenten die het Flock of Birds systeem hebben ontwikkeld), om een beter beeld van het meetsysteem te verkrijgen.**
+- [BEP rapport Flock of Birds](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Final_Report%20TUDElft%20FLock%20of%20Birds.pdf)
+
+**Het paper van het groep voor ons om mijzelf in te lezen in de geboekte resultaten en daardoor beter onze eigen doelstelling te begrijpen.
+- [Paper vorige Ortho Eyes projectgroep](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Paper%20van%20vorige%20jaar.pdf)
 
 -Overig
  ~Reflectie
