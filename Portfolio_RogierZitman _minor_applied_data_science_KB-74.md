@@ -1,4 +1,4 @@
-# minor-applied-data-science
+# Minor-applied-data-science
 
 Dit is het portfolio van Toegepaste Wiskunde (HHS, te Delft) Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
 
@@ -136,9 +136,28 @@ Aan het begin van de minor heb ik mij ook in enige literatuur verdiept. Onze opd
 
 ## **Overig**
 
+Ik heb gekozen om de minor Applied Data Science KB-74 te volgen om een beter beeld te krijgen van Data Science en scripten, wat daar bij komt kijken en hoe dit procesmatig ingevuld kan worden.
+
+Betreft Data Science wilde ik er graag weten welke toepassingen mogelijk zijn, hoe je van een probleem naar data gaat, wat voor technieken gebruikt kunnen worden om nuttige informatie uit een hoop data te filteren en dit om te zetten naar iets wat gebruikt kan worden in de maatschappij. Van het scripten wilde ik voornamelijk weten hoe je nou vooraf een goede rode draad voor jezelf/project uit kunt zetten om voor een lange periode gestructureerd dichter bij je eindproduct kan komen. Dit omdat bij mijn opleiding hier erg weinig nadruk op ligt.
+
+
 **Zelfreflectie**
 
 Voor dit portfolio heb ik mijn zelfrelectie opgedeeld in twee onderdelen. Het inhoudelijke deel, dus wat ik heb geleerd m.b.t. mijn persoonlijke leerdoelen, en een procesmatig deel. Hierin relfecteer ik op het verloop van de minor in het algemeen.
+
+*- Inhoudelijk
+
+Inhoudelijk ben ik erg tevreden met wat ik heb geleerd de afgelopen 17 weken. Wat betreft programmeren in Python kan ik nu meer dan een for lus maken, wat eerst niet het geval was. Ook heb ik erg veel geleerd van de online cursussen en het bestuderen en begrijpen van de code van mijn projectgenoten. Zelf scripten is nog zeker niet mijn sterkste kant, maar ik heb wel een hoop ervaring in opgedaan in het genereren van code en de code van andere bestuderen, begrijpen en waar nodig debuggen.
+
+Wat betreft de Data Science, zoals door de hierboven genoemde online cursussen van zowel Datacamp en de machine learning course van Andrew NG heb ik nu een stuk beter beeld op welke manier je om kan gaan met verschillende typen data. Verder is het Ortho Eyes project voor mij een erg duidelijk voorbeeld van een probleem in de maatschappij, omgezet in een probleem waarvan de oplossingen liggen in data. Naar welke variabelen men kan kijken, waarom wel het één en niet het ander. Machine learning vond ik in het begin erg lastig, omdat de wiskunde op een voor mij onverwachte manier werd gebruikt. Het waren eerst voornamelijk voorgebakken recepten, waarvan je moest weten dat ze werkten en hoe je ze kon gebruiken. De waarom miste bij mij. Maar tijdens het studeren voor het  tentamen begon het kwartje steeds meer te vallen. Hierdoor ben ik van mening dit leerdoel te hebben behaald.
+
+Aan het begin van de minor is het mij niet gelukt om direct een rode draad richting het einddoel te maken. Dit komt mede doordat erg werd aangemoedigd om met SCRUM te werken waardoor wij om de twee weken de komende twee weken invulden en niet zo zeer naar 10 weken verderop keken. Het gevolg hiervan was wel dat ik een nieuwe werkwijze heb meegemaakt en ik zie zeker het nut ervan in, hier ben ik erg blij mee. Ook ga ik hier bij mijn volgende projecten gebruik van maken, door vooraf te bedenken wat er per "sprint" gedaan kan worden en zo toch enigszins die rode draad te creëeren. Hoewel ik deze, voor mij toen onbekende en verassende, werkwijze niet had voorzien, heb ik een extra middel om voor mijzelf een goed overzicht te behouden over de behaalde resultaten en wat welke activiteiten nog in het verschiet liggen. Hiermee ben ik met betrekking tot dit leerdoel erg tevreden en beschouw ik het als behaald.
+
+Tot slot brengt het interpeteren van zowel de eind- als de tussenresultaten gedurende het Ortho Eyes project mij op mijn laatste vooraf gestelde leerdoel; de gevonden resultaten omzetten in een oplossing voor het probleem waar het project uit is voortgekomen. De vorm van resultaten was voor mij nieuw. Aan de hand van een percentage bepalen wat je nou eigenlijk hebt gedaan en dat evalueren om een goede volgende stap te kunnen zetten. Dit werd mij vrij snel duidelijk en zeker aan het eind van het project kon ik goed verwoorden wat er is gebeurd, waarom de behaalde resultaten als wel of niet positief beschouwd kunnen worden en wat het betekend voor het probleem en daarmee onze opdrachtgever. Toen ik dit leerdoel opstelde, ging het voornamelijk om het laatste, de terugkoppeling naar de oorsprong van het project, en ik kijk erg positief terug over mijn progressie in dit opzicht. Een geslaagd leerdoel dus.
+
+*- Procesmatig
+
+
 
 -Overig
  ~Reflectie
