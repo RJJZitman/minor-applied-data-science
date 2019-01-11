@@ -41,16 +41,20 @@ Verder door ons gebruikt jargon kunt u onder [deze](https://github.com/RJJZitman
 ## **[-Algemene wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781)**
 
 **Wiskunde achter de data: 3D rotatiematrices en eulerhoeken**
+
 De door het LUMC aangeleverde data waar mee is gewerkt, bestaat uit 3d rotatiematrices in eulerhoeken. Om dit voor iedereen in de groep vatbaar te maken, heb ik een uitleg gegeven over wat een rotatiematrix is, hoe je deze kan gebruiken en wat eulerhoeken zijn. Aan de hand van zowel een voorbeeld in 2d en waar een 3d rotatiematrix opgesteld kan worden. Een herschreven versie hiervan is te zien op [deze](https://github.com/RJJZitman/minor-applied-data-science/issues/6#issue-397984781) foto's. Het origineel heb ik niet meer aangezien dit op een whiteboard was gemaakt en er geen foto van gemaakt is. Wat betreft eulerhoeken heb ik het gehouden bij een manier van noteren. Wat hier mist is een vector in R3 en hoe een 3D rotatiematrix opgesteld kan worden. Dit heb ik toen wel uitgelegd aan de hand van de rotatiematrices over de x-, y- en z-as.
 
 **Kleine dingen gedurende het project**
+
 Verder zijn er gedurende het project een paar kleine probleemtpjes ontstaan door bijvoorbeeld berekeningen verkeerd uit te voeren, of niet weten waar de fout zit. Als iemand hier tegenaan liep, keek ik graag mee om te zoeken naar een oplossing. Voorbeelden hiervan zijn de SSS driehoeken gebruiken om de ellebooghoek te berekenen en een matrixvermenigvulding die bij hetzelfde programma niet goed ging waardoor een arm niet zijn lengte behield tijdens het maken van een beweging.
 
--[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118) **
   
- -De data
-
-  ~[Splitsingsstrategie](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) bedenken
+ ## **-De data**
+ 
+ **Splitsingsstrategie**
+ 
+Samen met Dr. Andrioli heb ik de splitsingstrategie van de data bedacht. Wij hebben gekozen om 90% van alle data te gebruiken als trainset en de overige 10% te gebruiken als testset, om niet aan te zitten tot aan het einde van het project. Verder hebben wij de trainset verdeeld in twee delen. Namelijk een dataset om te leren, met een omvang van 80% van de trainset, en 20% van deze trainset als validatie dataset. Dit zodat wij tussendoor de classifiers konden valideren voordat wij aan het uiteindelijke testdata zaten. Anders zouden we het gevaar lopen de classifiers af te stemmen op de testset, wat niet de bedoeling is. De hierboven genoemde percentages zijn gebaseerd op de hoeveelheid metingen. Let wel, in deze subsets zijn uitsluitend gehele patienten per set verwerkt, dus er is geen data van een patient in twee of meer van deze subsets verwerkt. Ter verduidelijking is [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/10#issue-398014521) een schematische weergave van de splitsingstrategie.
+ 
     
   ~[Oefeningen](https://github.com/RJJZitman/minor-applied-data-science/issues/11#issue-398014891) van verschillende categoriën met elkaar vergelijken
 
