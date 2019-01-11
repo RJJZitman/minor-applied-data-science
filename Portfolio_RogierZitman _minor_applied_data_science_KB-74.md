@@ -38,6 +38,9 @@ Aangezien het ortho eyes project zich afspeeld in de medische wereld was het in 
 Verder door ons gebruikt jargon kunt u onder [deze](https://github.com/RJJZitman/minor-applied-data-science/issues/16#issue-398250503) link vinden.
 
 
+## **[-Algemene wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118)**
+
+
 
 -[Wiskunde](https://github.com/RJJZitman/minor-applied-data-science/issues/9#issue-398014118) **
   
