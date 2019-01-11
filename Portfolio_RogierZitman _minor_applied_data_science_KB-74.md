@@ -31,9 +31,14 @@ Gedurende deze minor heb ik een aantal online cursussen gevolgd in python voor d
 Voor machine learning heb ik een deel van de andrew NG course op coursera gevolgd. Hier had ik relatief veel moeite mee. Daarom heb ik ook hier een week meer gedaan dan nodig. De screenshots hiervan zijn [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258) te zien.
 
 
+## **-[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)**
+
+Aangezien het ortho eyes project zich afspeeld in de medische wereld was het in het begin voor iedereen flink wennen aan de latijnse benamingen voor lichaamsdelen. Dit creëerde  voornamelijk een extra moeilijkheidsgraad bij het begrijpen van de data en tijdens het inlezen van de casus en literatuur. Een overzicht met de belangrijkste medische termen is [hier](<img width="231" alt="schermafbeelding 2019-01-11 om 12 22 51" src="https://user-images.githubusercontent.com/43171217/51031077-b4444d00-159b-11e9-9d16-5f248c17d93c.png">) te vinden.
+
+Verder door ons gebruikt jargon kunt u onder [deze](<img width="562" alt="schermafbeelding 2019-01-11 om 12 25 49" src="https://user-images.githubusercontent.com/43171217/51031191-10a76c80-159c-11e9-85be-350514b44ac1.png">) link vinden.
 
 
--[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
+
 
 -[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124) 
 
