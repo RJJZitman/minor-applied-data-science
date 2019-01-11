@@ -8,16 +8,31 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 # Dit portfolio is in de volgende wijze opgebouwd: 
 
 **-Online cursussen**
+
 **-Jargon**
+
 **-Algemene wiskunde**
+
 **-Het project**
+
 **-Presentaties**
+
 **-Mijn bijgrdage aan het paper**
+
 **-Literatuur**
+
 **-Overig**
 
 
- 
+## **-[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)**
+
+Gedurende deze minor heb ik een aantal online cursussen gevolgd in python voor data science en machine learning. De python cursussen heb ik gedaan op Datacamp, leuk om te zien is dat ik er meer heb gedaan dan minimaal nodig. Screenshots waar de afgemaakte cursussen zijn afgebeeld vindt u [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969).
+
+Voor machine learning heb ik een deel van de andrew NG course op coursera gevolgd. Hier had ik relatief veel moeite mee. Daarom heb ik ook hier een week meer gedaan dan nodig. De screenshots hiervan zijn [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258) te zien.
+
+
+
+
 -[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)
 
 -[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124) 
