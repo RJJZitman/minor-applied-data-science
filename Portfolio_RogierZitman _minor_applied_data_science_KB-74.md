@@ -1,6 +1,6 @@
 # Minor-applied-data-science
 
-Dit is het portfolio van Toegepaste Wiskunde (HHS, te Delft) student Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
+Dit is het portfolio van Toegepaste Wiskunde (HHS, te Delft) student Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudenten: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
 
 Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (Jurriaan) de Groot, werkzaam bij het Leids Universitair Medisch Centrum (LUMC). 
  
