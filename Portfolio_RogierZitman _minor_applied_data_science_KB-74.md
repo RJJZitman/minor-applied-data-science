@@ -88,14 +88,14 @@ Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere
 
  
   
-##**-Presentaties**
+## **-Presentaties**
 
 Gedurende deze minor moest elke week een presentatie gegeven worden. In het begin zou iedereen om de drie weken dit op zich nemen. In  [week vier](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%204.pdf) en [week acht](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%208.pdf) heb ik de presentatie verzorgd. Ook ga ik, samen met Luke, de presentatie in week 17 en de laatste en openbare presentatie geven waar het gehele project onder handen wordt genomen. Deze presentatie zijn op het moment van schrijven nog niet gemaakt, dus kunnen zij nog niet in dit portfolio worden opgenomen.
 
 In vergelijking met ander groepsleden heb ik niet veel presentaties gegeven. Dit mede door tweemaal overmacht* en omdat ik relatief veel ervaring met presentaties heb en hierom liever de kans aan mijn groepsgenoten gaf.
 
 
-##[**-Paper**](https://github.com/RJJZitman/minor-applied-data-science/blob/master/paper_ortho_eyes.pdf)
+## [**-Paper**](https://github.com/RJJZitman/minor-applied-data-science/blob/master/paper_ortho_eyes.pdf)
 
 Ook aan het paper behorend bij het Ortho eyes project heb ik mijn bijdrage geleverd. Deze is hieronder puntsgewijs uiteengezet.
 
