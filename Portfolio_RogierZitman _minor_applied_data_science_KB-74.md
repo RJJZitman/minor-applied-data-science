@@ -17,7 +17,7 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 
 **-Presentaties**
 
-**-Mijn bijgrdage aan het paper**
+**-Mijn bijdrage aan het paper**
 
 **-Literatuur**
 
