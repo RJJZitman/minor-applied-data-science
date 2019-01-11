@@ -37,7 +37,7 @@ Betreft Data Science wilde ik er graag weten welke toepassingen mogelijk zijn, h
 
 Gedurende deze minor heb ik een aantal online cursussen gevolgd in python voor data science en machine learning. De python cursussen heb ik gedaan op Datacamp, leuk om te zien is dat ik er meer heb gedaan dan minimaal nodig. Screenshots waar de afgemaakte cursussen zijn afgebeeld vindt u [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/1#issue-397295969).
 
-Voor machine learning heb ik een deel van de andrew NG course op coursera gevolgd. Hier had ik relatief veel moeite mee. Daarom heb ik ook hier een week meer gedaan dan nodig. De screenshots hiervan zijn [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/16#issue-398250503) te zien.
+Voor machine learning heb ik een deel van de andrew NG course op coursera gevolgd. Hier had ik relatief veel moeite mee. Daarom heb ik ook hier een week meer gedaan dan nodig. De screenshots hiervan zijn [hier](https://github.com/RJJZitman/minor-applied-data-science/issues/3#issue-397733258) te zien.
 
 
 ## **-[Jargon](https://github.com/RJJZitman/minor-applied-data-science/issues/7#issue-398013124)**
