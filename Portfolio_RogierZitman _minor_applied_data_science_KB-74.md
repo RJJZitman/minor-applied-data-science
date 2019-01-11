@@ -90,18 +90,21 @@ Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere
   
 ##**-Presentaties**
 
-  [week 4](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%204.pdf)
-  
-  [week 8](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%208.pdf)
-  ~week 17--> powerpoint is er nog niet
-  ~openbare eindpresentatie over het gehele project--> zelfde als week 17
--Paper
- ~Opzet structuur met kasper+ overzicht van de inhoude per hoofdstuk
- ~Introductie herschreven en aangevuld
- ~Results gemaakt
- ~Discussion gemaakt
- ~geholpen met inhoud conclusion
- ~link naar paper.
+Gedurende deze minor moest elke week een presentatie gegeven worden. In het begin zou iedereen om de drie weken dit op zich nemen. In  [week vier](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%204.pdf) en [week acht](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Ortho%20Eyes%20presentatie%20week%208.pdf) heb ik de presentatie verzorgd. Ook ga ik, samen met Luke, de presentatie in week 17 en de laatste en openbare presentatie geven waar het gehele project onder handen wordt genomen. Deze presentatie zijn op het moment van schrijven nog niet gemaakt, dus kunnen zij nog niet in dit portfolio worden opgenomen.
+
+In vergelijking met ander groepsleden heb ik niet veel presentaties gegeven. Dit mede door tweemaal overmacht* en omdat ik relatief veel ervaring met presentaties heb en hierom liever de kans aan mijn groepsgenoten gaf.
+
+
+##[**-Paper**](https://github.com/RJJZitman/minor-applied-data-science/blob/master/paper_ortho_eyes.pdf)
+
+Ook aan het paper behorend bij het Ortho eyes project heb ik mijn bijdrage geleverd. Deze is hieronder puntsgewijs uiteengezet.
+
+- Opzet van de structuur gemaakt, met een overzicht van de inhoud per hoofdstuk. Samen met Kasper.
+- De introductie herschreven en aangevuld voor de laatste versie.
+- Het hoofdstuk 'Resuts' gemaakt.
+- Het hoofdstuk 'Discussion' gemaakt.
+- Samen met Kasper het hoofdstuk 'Conclusion' gemaakt.
+- Hier is een [link](https://github.com/RJJZitman/minor-applied-data-science/blob/master/paper_ortho_eyes.pdf) naar het paper.
 
 
 -Literatuur
@@ -120,7 +123,7 @@ Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere
 
 
 
-
+*Eenmaal wegens ziekte en eenmaal wegens een crematie.
 
 
 
