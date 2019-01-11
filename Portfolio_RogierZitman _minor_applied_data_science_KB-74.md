@@ -76,9 +76,16 @@ Samen met luke het deel geschreven waarmee de oppervlakte van de grafiek die de 
 
 Omdat de punten op de grafiek een kromme vormen, hebben wij in plaats van het verschil van twee integralen te nemen de oppervlakte onder de boven- en onderkant van deze kromme numeriek benaderd. Als sample X+1 links van sample X lag, werd de waarde voor de oppervlakte als positief beschouwd en als sample X+1 rechts van sample X lag werd deze als negatief beschouwd. De absolute som van deze waarden geeft dan de op de afbeelding gemarkeerde oppervlakte.
 
-  ~[Categorie X vs Y classifier](https://github.com/RJJZitman/minor-applied-data-science/issues/12#issue-398015615) met gemanipuleerde parameters
+**De categorie X vs Y classifier**
 
- ~[fixed samples](https://github.com/RJJZitman/minor-applied-data-science/issues/13#issue-398020413) van de grafiek gebruiken
+Luke en vincent zijn begonnen met een classifier die twee categoriën van elkaar moet onderscheiden. Na een tijdje heb ik dit overgenomen en afgemaakt.
+
+Omdat categorie 2 en 3 niet goed uit elkaar te halen waren, ben ik toen de parameters gaan manipuleren om te onderzoeken of dat een positieve invloed had op de prestaties van deze classifier. Dit heb ik gedaan om logistieke regressie te simuleren. Helaas had dit geen positief effect op de prestaties van de classifier. U kunt [hier](https://datascience.hhs.nl:8888/user/15023869/notebooks/Classifier%202%20vs%203%20v1.1Logistic%20Regression.ipynb) de uiteindelijke code inzien.
+
+**Fixed samples van de grafiek**
+
+Nadat de max value classefiers niet goed genoeg werkten, besloten we om meerdere vaste punten op de grafiek mee te nemen dan alleen een maximum. Ik ben hier toen mee begonnen. [Dit script](https://datascience.hhs.nl:8888/user/15023869/notebooks/Fixed%20samples%20op%20de%20grafiek%20pakken.ipynb) is uiteindelijk niet gebruikt en afgemaakt omdat we overgingen op een andere stragetie om deze punten te kiezen.
+
  
   
 -Presentaties
