@@ -1,11 +1,13 @@
 # minor-applied-data-science
 
-Dit is het portfolio van Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
+Dit is het portfolio van Toegepaste Wiskunde (HHS, te Delft) Rogier Zitman m.b.t. het Ortho Eyes project, onderdeel van de minor Applied Data Science KB-74. In dit portfolio is opgenomen wat ik gedurende het Ortho-eyes project heb gedaan. Dit project is uitgevoerd met Dr. Tony Andrioli en drie medestudent: Kasper van der Hoofd, Luke de Keijzer en Vincent den Oord. 
 
 Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (Jurriaan) de Groot, werkzaam bij het Leids Universitair Medisch Centrum (LUMC). 
  
 
 # Dit portfolio is in de volgende wijze opgebouwd: 
+
+**-Waarom deze minor en leerdoelen**
 
 **-Online cursussen**
 
@@ -22,6 +24,13 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 **-Literatuur**
 
 **-Overig**
+
+
+## **-Waarom deze minor en persoonlijke leerdoelen**
+
+Ik heb gekozen om de minor Applied Data Science KB-74 te volgen om een beter beeld te krijgen van Data Science en scripten, wat daar bij komt kijken en hoe dit procesmatig ingevuld kan worden.
+
+Betreft Data Science wilde ik er graag weten welke toepassingen mogelijk zijn, hoe je van een probleem naar data gaat, wat voor technieken gebruikt kunnen worden om nuttige informatie uit een hoop data te filteren en dit om te zetten naar iets wat gebruikt kan worden in de maatschappij. Van het scripten wilde ik voornamelijk weten hoe je nou vooraf een goede rode draad voor jezelf/project uit kunt zetten om voor een lange periode gestructureerd dichter bij je eindproduct kan komen. Dit omdat bij mijn opleiding hier erg weinig nadruk op ligt.
 
 
 ## **-[Online cursussen](https://github.com/RJJZitman/minor-applied-data-science/issues/8#issue-398013713)**
@@ -111,7 +120,7 @@ Ook aan het paper behorend bij het Ortho eyes project heb ik mijn bijdrage gelev
 
 Aan het begin van de minor heb ik mij ook in enige literatuur verdiept. Onze opdrachtgever (J.H. de Groot) heeft ons toendertijd een aantal artikelen opgestuurd op het gebied van onze opdracht. Hieronder is een lijst met alle, door mij bestudeerde, literatuur gecategoriseerd weergegeven.
 
-**Het verkrijgen van inzicht in het onderwerp**
+**Het verkrijgen van inzicht in het onderwerp.**
 
 - [De Groot, 1997](https://github.com/RJJZitman/minor-applied-data-science/blob/master/DeGroot_1997.pdf)
 - [De Groot, 1999](https://github.com/RJJZitman/minor-applied-data-science/blob/master/DeGroot_1999.pdf)
@@ -121,8 +130,15 @@ Aan het begin van de minor heb ik mij ook in enige literatuur verdiept. Onze opd
 **Het BEP eindrapport (van de studenten die het Flock of Birds systeem hebben ontwikkeld), om een beter beeld van het meetsysteem te verkrijgen.**
 - [BEP rapport Flock of Birds](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Final_Report%20TUDElft%20FLock%20of%20Birds.pdf)
 
-**Het paper van het groep voor ons om mijzelf in te lezen in de geboekte resultaten en daardoor beter onze eigen doelstelling te begrijpen.
+**Het paper van het groep voor ons om mijzelf in te lezen in de geboekte resultaten en daardoor beter onze eigen doelstelling te begrijpen.**
 - [Paper vorige Ortho Eyes projectgroep](https://github.com/RJJZitman/minor-applied-data-science/blob/master/Paper%20van%20vorige%20jaar.pdf)
+
+
+## **Overig**
+
+**Zelfreflectie**
+
+Voor dit portfolio heb ik mijn zelfrelectie opgedeeld in twee onderdelen. Het inhoudelijke deel, dus wat ik heb geleerd m.b.t. mijn persoonlijke leerdoelen, en een procesmatig deel. Hierin relfecteer ik op het verloop van de minor in het algemeen.
 
 -Overig
  ~Reflectie
