@@ -8,13 +8,13 @@ Ortho-eyes is onderdeel van een onderzoek door Dr. Andrioli voor Dr. ir. J.H. (J
 # Dit portfolio is in de volgende wijze opgebouwd: 
 
 **-Online cursussen**
-**Jargon**
-**Algemene wiskunde**
-**Het project**
-**Presentaties**
-**Mijn bijgrdage aan het paper**
-**Literatuur**
-**overig**
+**-Jargon**
+**-Algemene wiskunde**
+**-Het project**
+**-Presentaties**
+**-Mijn bijgrdage aan het paper**
+**-Literatuur**
+**-Overig**
 
 
  
